@@ -1,9 +1,3 @@
----
-title: The Environment
-updated: 2021-06-13 12:13:54Z
-created: 2018-10-01 03:02:33Z
----
-
 **The Environment**
 
 **Falling**

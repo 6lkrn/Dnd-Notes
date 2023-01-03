@@ -1,9 +1,3 @@
----
-title: Reactions
-updated: 2021-06-20 05:14:49Z
-created: 2018-07-28 02:10:08Z
----
-
 ## **Reactions:**
 
 <table><tbody><tr class="odd"><td><p>Certain special abilities, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The opportunity attack, described later in this chapter, is the most common type of reaction.</p><p> </p><p>When you take a reaction, you can’t take another one until the start of your next turn. If the reaction interrupts another creature’s turn, that creature can continue its turn right after the reaction.</p><p> </p></td></tr></tbody></table>

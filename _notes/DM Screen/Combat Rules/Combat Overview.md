@@ -1,9 +1,3 @@
----
-title: Combat Overview
-updated: 2021-06-20 05:10:48Z
-created: 2018-07-28 01:57:50Z
----
-
 # **The Order of Combat**
 
 A typical combat encounter is a clash between two sides. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round.

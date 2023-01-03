@@ -1,9 +1,3 @@
----
-title: Damage and Healing
-updated: 2021-06-13 12:29:17Z
-created: 2018-07-28 02:32:21Z
----
-
 ## **Damage**
 
 <table><tbody><tr class="odd"><td><p>Injury and the risk of death are constant companions of those who explore the worlds of D&amp;D. The thrust of a sword, a well-placed arrow, or a blast of flame from a <strong>fireball</strong> spell all have the potential to damage, or even kill, the hardiest of creatures.</p><p> </p></td></tr></tbody></table>
@@ -26,6 +20,4 @@ created: 2018-07-28 02:32:21Z
 
 ## **Describing the Effects of Damage:**
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you unconscious. |
+Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you unconscious.

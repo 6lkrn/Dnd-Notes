@@ -1,9 +1,3 @@
----
-title: Bonus Actions
-updated: 2021-06-20 05:14:37Z
-created: 2018-07-28 02:10:04Z
----
-
 # **Bonus Actions:**
 
 <table><tbody><tr class="odd"><td><p>Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action.</p><p> </p><p>You otherwise don’t have a bonus action to take.</p><p> </p><p><strong>You can take only one bonus action on your turn</strong>, so you must choose which bonus action to use when you have more than one available.</p><p> </p><p>You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.</p><p> </p></td></tr></tbody></table>

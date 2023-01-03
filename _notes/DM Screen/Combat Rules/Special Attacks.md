@@ -1,9 +1,3 @@
----
-title: Special Attacks
-updated: 2021-06-13 12:13:46Z
-created: 2018-10-02 21:37:58Z
----
-
 **Special Attacks**
 
 **Opportunity Attacks**

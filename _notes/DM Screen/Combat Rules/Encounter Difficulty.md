@@ -1,9 +1,3 @@
----
-title: Encounter Difficulty
-updated: 2021-06-13 12:13:10Z
-created: 2018-10-01 18:04:04Z
----
-
 **XP Thresholds by Character Level**
 
 |                     |          |                          |          |            |

@@ -1,9 +1,3 @@
----
-title: Attacks
-updated: 2021-06-20 05:12:46Z
-created: 2018-07-28 01:56:36Z
----
-
 ## **Actions In Combat:**
 
 <table><tbody><tr class="odd"><td><p>When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.</p><p> </p><p>When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.</p></td></tr></tbody></table>

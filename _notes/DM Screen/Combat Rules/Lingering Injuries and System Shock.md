@@ -1,8 +1,3 @@
----
-title: Lingering Injuries and System Shock
-updated: 2021-06-13 12:13:17Z
-created: 2018-10-01 03:08:29Z
----
 
 **Lingering Injuries and System Shock**
 
