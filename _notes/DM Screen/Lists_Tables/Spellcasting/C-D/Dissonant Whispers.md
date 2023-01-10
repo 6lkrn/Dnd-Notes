@@ -1,7 +1,0 @@
----
-title: Dissonant Whispers
-updated: 2021-06-13 02:52:32Z
-created: 2018-07-24 20:46:49Z
----
-
-<table><tbody><tr class="odd"><td><h1 id="dissonant-whispers"><strong>Dissonant Whispers</strong></h1><p><em>1st-level enchantment</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: 60 feet</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Instantaneous</p></blockquote></li></ul><p> </p><p>You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically succeeds on the save. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</p><p> </p></td></tr></tbody></table>

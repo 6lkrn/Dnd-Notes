@@ -1,7 +1,0 @@
----
-title: Time Stop
-updated: 2021-06-13 01:59:28Z
-created: 2018-07-25 00:46:22Z
----
-
-<table><tbody><tr class="odd"><td><h1 id="time-stop"><strong>Time Stop</strong></h1><p><em>9th-level transmutation</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: Self</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Instantaneous</p></blockquote></li></ul><p> </p><p>You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal.</p><p> </p><p>This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1000 feet from the location where you cast it.</p><p> </p></td></tr></tbody></table>

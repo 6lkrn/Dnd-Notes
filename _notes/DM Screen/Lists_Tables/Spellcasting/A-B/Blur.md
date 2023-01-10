@@ -1,7 +1,0 @@
----
-title: Blur
-updated: 2021-06-13 03:03:08Z
-created: 2018-07-24 19:52:06Z
----
-
-<table><tbody><tr class="odd"><td><h1 id="blur"><strong>Blur</strong></h1><p><em>2nd-level illusion</em></p><ul><li><blockquote><p><strong>Casting Time</strong>: 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: Self</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Concentration, up to 1 minute</p></blockquote></li></ul><p> </p><p>Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with blind-sight, or can see through illusions, as with true-sight.</p><p> </p></td></tr></tbody></table>

@@ -1,7 +1,0 @@
----
-title: Haste
-updated: 2021-06-13 02:20:52Z
-created: 2018-07-24 21:59:50Z
----
-
-<table><tbody><tr class="odd"><td><h1 id="haste"><strong>Haste</strong></h1><p><em>3rd-level transmutation</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: 30 feet</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S, M (a shaving of licorice root)</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Concentration, up to 1 minute</p></blockquote></li></ul><p> </p><p>Choose a willing creature that you can see within range. Until the spell ends, the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.</p><p> </p><p>When the spell ends, the target can’t move or take actions until after its next turn, as a wave of lethargy sweeps over it.</p><p> </p></td></tr></tbody></table>
